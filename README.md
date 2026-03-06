@@ -102,13 +102,7 @@ User Input
 
 ---
 
-## CV Bullets
 
-> Built LLM-powered CTF challenge generator (Llama-3.2-3B via HF Inference API) producing structured challenges across 5 vulnerability types, 3 difficulty levels, and 7 real-world contexts
-
-> Developed learning analytics pipeline analysing student pre/post test scores and simulator engagement data; computed Hake's normalised gain, simulator impact, and learning profile segmentation across V1/V2 game versions
-
----
 
 ## License
 
